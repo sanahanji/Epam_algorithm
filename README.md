@@ -1,1 +1,1 @@
-# Epam_algorithm
+# Epam_datastructure
